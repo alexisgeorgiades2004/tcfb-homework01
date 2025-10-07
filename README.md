@@ -11,13 +11,13 @@
 
 [github.com/alexisgeorgiades2004](https://github.com/alexisgeorgiades2004)
 
-## Below are imbeded images
+## Below are embedded images
 
 ![Catagluphis fortis](<Images/090629 Cataglyphis fortis.jpg>)
 ![Rhytidoponera metallica](<Images/0172345 Rhytidoponera metallica.jpg>)
 ![Camponotus darwinii](<Images/0191696 Camponotus darwinii .jpg>)
 ![Acanthomyrmex ferox](<Images/0901788 Acanthomyrmex ferox.jpg>)
 
-## Below is an imbeded table of my tidydata
+## Below is an embedded table of my tidydata
 
 [tidydata](tidydata.csv)
