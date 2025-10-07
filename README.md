@@ -20,4 +20,4 @@
 
 ## Below is an imbeded table of my tidydata
 
-[tidydata](tidydata.xlsx)
+[tidydata](tidydata.csv)
